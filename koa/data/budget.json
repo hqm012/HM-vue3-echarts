@@ -1,0 +1,31 @@
+[{
+    "dimName": "sales",
+    "dimZhName": "销售",
+    "max": 80000,
+    "budget": 75000,
+    "expense": 68340
+}, {
+    "dimName": "Administration",
+    "dimZhName": "管理",
+    "max": 40000,
+    "budget": 32100,
+    "expense": 34500
+}, {
+    "dimName": "Development",
+    "dimZhName": "研发",
+    "max": 1200000,
+    "budget": 1000000,
+    "expense": 874820
+}, {
+    "dimName": "Support",
+    "dimZhName": "客服",
+    "max": 21000,
+    "budget": 17640,
+    "expense": 12500
+}, {
+    "dimName": "Marketing",
+    "dimZhName": "市场",
+    "max": 25000,
+    "budget": 19000,
+    "expense": 21000
+}]

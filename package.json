@@ -1,0 +1,25 @@
+{
+  "name": "vision",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "npx nodemon ./koa/app.js"
+  },
+  "dependencies": {
+    "echarts": "^5.4.1",
+    "normalize.css": "^8.0.1",
+    "pinia": "^2.0.28",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6",
+    "ws": "^8.12.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "koa": "^2.14.1",
+    "nodemon": "^2.0.20",
+    "vite": "^4.0.0"
+  }
+}
